@@ -1,0 +1,16 @@
+.Order{
+    width: 80%;
+    border: 2px solid #eee;
+    box-shadow: 0 2px 3px #cccccc;
+    box-sizing: border-box;
+    padding: 10px;
+    margin: 10px auto;
+}
+
+.Output{
+    text-transform: capitalize;
+    display: inline-block;
+    margin: 0 8px;
+    padding: 5px;
+    border: 2px solid #cccccc;
+}
